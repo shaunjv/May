@@ -1,0 +1,2 @@
+/* System fonts keep the local application independent of external font services. */
+pre,code{font-family:Consolas,'SFMono-Regular',monospace}
